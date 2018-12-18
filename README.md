@@ -39,18 +39,20 @@ Tomorrow theme variations in shown in TextMate with Ruby code and the font "Menl
 ### Tomorrow Night
 ![Tomorrow Night](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Night-Palette.png)
 
-`#1d1f21` Background  
-`#282a2e` Current Line  
-`#373b41` Selection  
-`#c5c8c6` Foreground  
-`#969896` Comment  
-`#cc6666` Red  
-`#de935f` Orange  
-`#f0c674` Yellow  
-`#b5bd68` Green  
-`#8abeb7` Aqua  
-`#81a2be` Blue  
-`#b294bb` Purple  
+| Color Name     | Hex Code  | RGB Code        |
+| -------------- | --------- | --------------- |
+| Background     | `#1d1f21` | `( 29, 31, 33)` |
+| Current Line   | `#282a2e` | `( 40, 42, 46)` |
+| Selection      | `#373b41` | `( 55, 59, 65)` |
+| Foreground     | `#c5c8c6` | `(197,200,198)` |
+| Comment        | `#969896` | `(150,152,150)` |
+| Red            | `#cc6666` | `(204,102,102)` |
+| Orange         | `#de935f` | `(222,147, 95)` |
+| Yellow         | `#f0c674` | `(240,198,116)` |
+| Green          | `#b5bd68` | `(181,189,104)` |
+| Aqua           | `#8abeb7` | `(138,190,183)` |
+| Blue           | `#81a2be` | `(129,162,190)` |
+| Purple         | `#b294bb` | `(178,148,187)` |
 
 ### Tomorrow
 ![Tomorrow](https://github.com/ChrisKempson/Tomorrow-Theme/raw/master/Images/Tomorrow-Palette.png)
